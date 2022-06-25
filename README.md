@@ -1,4 +1,4 @@
-# This repo is all about QR Code Generator and Scanner.
+# QR CODE GENERATOR AND SCANNER
 
 This project can do both task:
 
